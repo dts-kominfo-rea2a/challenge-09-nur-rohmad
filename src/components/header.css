@@ -1,0 +1,13 @@
+header {
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+}
+.garis {
+  margin-top: -12px;
+  font-size: 30px;
+  letter-spacing: 7px;
+  color: #ff8080;
+  margin-bottom: 12px;
+}
